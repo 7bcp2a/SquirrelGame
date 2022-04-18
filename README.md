@@ -1,1 +1,1 @@
-My first university project using Javascript P5JS library.
+My first university project using JavaScript P5JS library.
